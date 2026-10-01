@@ -1,7 +1,7 @@
 name: AntiEspFreecam
 version: 1.0
 main: com.example.antiesp.AntiEspPlugin
-api-version: '1.20'
+api-version: '26.2'
 depend: [PacketEvents]
 author: Custom
 description: Packet-level Anti ESP, Anti Freecam & Anti Seed Cracker
